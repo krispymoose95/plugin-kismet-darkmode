@@ -2,6 +2,12 @@
 Crude dark mode for Kismet web ui.
 Ever been flashbanged opening Kismet at night? This is why this exists.
 
+# Screenshot
+
+<p align="center">
+  <img src="https://github.com/krispymoose95/plugin-kismet-darkmode/blob/master/darkmode-screenshot.png" width="800"/>
+</p>
+
 # Installing
 
 ## For global installation
