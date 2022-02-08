@@ -10,6 +10,10 @@ Ever been flashbanged opening Kismet at night? This is why this exists.
 
 # Installing
 
+## Requirements
+
+ - Kismet 2022-01-R3 (may work on previous versions, but not tested)
+
 ## For global installation
 ```
 git clone https://github.com/krispymoose95/plugin-kismet-darkmode
