@@ -5,7 +5,7 @@ Ever been flashbanged opening Kismet at night? This is why this exists.
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/krispymoose95/plugin-kismet-darkmode/blob/master/darkmode-screenshot.png" width="800"/>
+  <img src="https://github.com/krispymoose95/plugin-kismet-darkmode/blob/main/darkmode-screenshot.png" width="800"/>
 </p>
 
 # Installing
