@@ -1,0 +1,28 @@
+/* 
+Final tweaks after all other dark mode CSS styling has been applied.
+*/
+
+.ui-widget.ui-widget-content {
+    border:1px solid #121212;
+}
+
+.ui-tabs .ui-tabs-panel {
+    background-color: #212121;
+}
+
+.resize_wrapper {
+    background-color: transparent;
+}
+
+input, select {
+    background-color: transparent;
+    color: #fff;
+}
+
+select option {
+    background-color: #212121;
+}
+
+#alerts_dt {
+    color: #000;
+}
